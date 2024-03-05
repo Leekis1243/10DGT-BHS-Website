@@ -21,7 +21,7 @@ nav ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: indianred;
+  background-color: rgba(225 ,0 ,0 ,0);
   top: 0;
   width: 100%;
   text-align: center;
@@ -43,11 +43,11 @@ nav li a{
 }
 
 nav li:hover{
-  background-color: indianred;
+  background-color: rgba(225 ,0 ,0 ,0);
 }
 
 nav #active{
-  background-color: red;
+  background-color: rgba(225 ,0 ,0 ,0)
 }
 
 /* Styling for the main section*/
