@@ -43,12 +43,14 @@ nav li a{
 }
 
 nav li:hover{
-  background-color: rgba(225 ,0 ,0 ,0);
+  background-color: rgba(20 ,20 ,20 ,0.5);
+  border-radius: 10px;
 }
 
 nav #active{
-  background-color: rgba(225 ,0 ,0 ,0)
-}
+  background-color: rgba(10 ,10 ,10 ,1);
+  border-radius: 10px;
+} 
 
 /* Styling for the main section*/
 /* This is the line between the main section and footer */
